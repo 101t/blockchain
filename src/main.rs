@@ -22,7 +22,7 @@ fn main() {
     let mut chain = blockchain::Chain::new(miner_addr.trim().to_string(), diff);
 
     loop {
-        println!("Menut: ");
+        println!("Menu: ");
         println!("1. New transaction");
         println!("2. Mine block");
         println!("3. Change difficulty");
