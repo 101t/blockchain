@@ -1,5 +1,5 @@
 # Blockchain
-This aims to build a local blockchain implementation.
+CLI app aims to build a local blockchain implementation.
 
 ## Functionality:
 * create blocks and chain
